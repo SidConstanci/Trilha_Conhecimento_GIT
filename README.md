@@ -7,7 +7,7 @@ GIT = Sistema de controle de versões distribuido
 Aula 01: 
 git config --global user.name "Sidney Constanci Salgueiro" **configura o user name do usuário da maquina 
 
-git config --global user.email "sidney.salgueiro@neon.com.br" **configura o user email do usuario da maquina 
+git config --global user.email "<email_usuario>" **configura o user email do usuario da maquina 
 
 Aula 02:
 git init **cria a estrutura de um repositório na pasta atual
